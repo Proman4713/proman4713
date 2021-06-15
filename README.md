@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arduinonema1
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML, JavaScript, C++, CSS & sass
+- 🌱 I’m currently learning HTML, JavaScript, python, C++, CSS & sass
 - 💞️ I’m looking to collaborate on creating games, websites and apps
 - 📫 How to reach me ...
 
