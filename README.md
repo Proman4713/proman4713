@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @arduinonema1
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML, JavaScript, python, C++, CSS & sass
 - 💞️ I’m looking to collaborate on creating games, websites and apps
-- 📫 How to reach me (roblox account... username: "arduinonema1" )
+- 📫 How to reach me (discord username: "Proman4713#4273" )
 - 👀 I'm looking for developers to collaborate with...
 
 <!---
