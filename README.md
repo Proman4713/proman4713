@@ -10,6 +10,7 @@ Egyptian Full-Stack software engineer and Unity game developer! ~6 years in deve
 
 - YT: https://youtube.com/@lots_of_codeswallop
 - Discord: @proman4713
+- Itch.io: https://proman4713.itch.io/
 
 
 <!---
