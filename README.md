@@ -6,7 +6,7 @@
 - 👀 I'm looking for developers to collaborate with...
 -->
 
-Egyptian Full-Stack software engineer and Unity game developer! ~6 years in developing games and web/mobile applications. Uses React, React Native, MongoDB, NodeJS and Cloudflare Workers for developing Full-Stack applications, and Unity for both 2D and 3D games. Passionate about game dev. Bilingual in English and Arabic. Currently expanding into the field of data science to create smarter software.
+Egyptian Full-Stack software engineer and Unity game developer! ~6 years in developing games and web/mobile applications. Uses React, React Native, MongoDB, NodeJS and Cloudflare Workers for developing Full-Stack applications, and Unity for both 2D and 3D games. Passionate about game dev. Bilingual in English and Arabic. Currently making a Linux distro.<!-- expanding into the field of data science to create smarter software. -->
 
 - YT: https://youtube.com/@lots_of_codeswallop
 - Discord: @proman4713
