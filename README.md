@@ -21,9 +21,8 @@ The shortest description I could give for myself is this: a living organism of t
 I do all sorts of stuff for all sorts of reasons, but the most significant one is that I'm a student; I don't have entire development teams :)
 Primarily, I'm a Full-Stack software engineer and Unity game developer.
 
-Under Egyptian student budget constraints, my #1 criterion for choosing software technologies is: *Is it free?*
-<!-- TODO: Upload to repo -->
-<img width="320" height="240" alt="sad on a budget GIF" src="https://github.com/user-attachments/assets/506ee790-e0a0-46fe-bab4-9c71555975b3" />
+On an Egyptian student budget, my #1 criterion for choosing software technologies is: *Is it free?*
+<img width="320" height="240" alt="sad on a budget GIF" src="./gifs/sad on a budget GIF.gif" />
 
 
 ## What this guy does
