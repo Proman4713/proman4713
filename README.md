@@ -18,7 +18,7 @@ Egyptian Full-Stack software engineer and Unity game developer! ~6 years in deve
 # Me 🤷‍♂️
 The shortest description I can give of myself is this: a living organism of the Software Engineer species, of human, particularly Egyptian 🇪🇬, descent.
 
-I do all sorts of stuff for all sorts of reasons, but the most significant one is that I'm a student; I don't have entire development teams :)
+I do all sorts of stuff for all sorts of reasons, but the most significant one is that I'm a student; I don't have entire development teams :)\
 Primarily, I'm a Full-Stack software engineer and Unity game developer.
 
 My real name is **Aaser Abd-el Sabour**, but I'm known everywhere online as Proman4713. I am bilingual in English and Arabic, and I like computers, but I sadly have to use different languages to talk to them 🙁
@@ -48,7 +48,7 @@ and even more projects.
 If you haven't guessed already: yes, *the 'Utile OS' project is the latest culmination of my ~6-year experience in Computer Science as a whole, across all the fields I've tried, from Cybersecurity to Game Development to UI/UX and brand design to full-stack web and mobile development&hellip;* And you'll see other things related to it below.
 
 ### IT'S NOT VIBE-CODED
-I researched and learned various Linux, GNOME, and Debian concepts; independently investigated and documented processes and tools used to make Ubuntu; modified upstream packages; followed design guidelines to design app icons; and studied open-source code.
+I researched and learned various Linux, GNOME, and Debian concepts; *independently investigated and documented processes and tools used to make Ubuntu;* modified upstream packages; followed design guidelines to design app icons; and studied open-source code.
 
 For this project, AI serves as nothing more than a glorified search engine; I'm dealing with things way too undocumented for Claude or any other LLM to be able to do alone. Besides, I don't pay for AI, so I have no choice but to do it on my own. I'll write up an AI policy for Utile OS at some point, but just know that since 5 July 2026, almost no AI-written code has been allowed into the repository without a comment mentioning how AI was used (very little).
 
@@ -80,7 +80,7 @@ So, my best friend for websites is also Cloudflare for their awesome free plan f
 This was made in React Router v7 and hosted on Cloudflare Workers. This website includes some pretty fancy stuff on PC; please check it out 😊
 
 ## Back-end Highlight
-[Mawjood API](https://nmols-api.mawjood.education/auth/publicKey)
+[Mawjood API](https://nmols-api.mawjood.education/auth/publicKey): API service used across [Mawjood](https://mawjood.education/)'s web and mobile front-ends.
 
 <img width="384" style="aspect-ratio: 16/9;" alt="Screenshot of Mawjood's class viewer alongside a network request sent to retrieve the data" src="https://github.com/user-attachments/assets/726029d0-65af-4f4b-aa04-0d36a0112c15" />
 <img width="384" style="aspect-ratio: 16/9;" alt="Screenshot of Mawjood's class viewer alongside a network response with the data" src="https://github.com/user-attachments/assets/257f3c19-c524-4665-87a4-2f5c77d609d7" />
@@ -101,6 +101,8 @@ This (the back-end for Mawjood, not the web app itself) was written on Cloudflar
 I made Mawjood for schools in my governorate primarily to manage attendance, among other things, so it's closed-source. I've largely stopped maintaining the project since it dragged on for way too long compared to the level of adoption I could get as a middle school student at the time ☹️. However, Smithy's back-end code is largely inspired by Mawjood, with a few renovations and structural changes to work with a React Router front-end living on the same URL. Parts of the Mawjood web app were also adapted for Utile OS's brand website.
 
 ## Mobile App Highlight
+[Mawjood](https://github.com/Proman4713/MawjoodReleases): mobile front-end for [Mawjood](https://mawjood.education/).
+
 <img width="270" style="aspect-ratio: 18/41;" alt="Mawjood mobile attendance-taking screen" src="https://github.com/user-attachments/assets/697ee5db-e845-4a79-842b-5904de27e61b" />
 <img width="270" style="aspect-ratio: 18/41;" alt="Mawjood mobile class viewer" src="https://github.com/user-attachments/assets/f7e18d01-cd76-4ad2-8d06-37c67e1c8730" />
 <img width="270" style="aspect-ratio: 18/41;" alt="Mawjood mobile development credits" src="https://github.com/user-attachments/assets/2af2ac74-1b66-4301-91b4-6083b2aa4c97" />
