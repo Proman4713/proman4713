@@ -94,7 +94,7 @@ This was made in React Router v7 and hosted on Cloudflare Workers. This website 
 
 I've made a lot of APIs over the years, including the one for Smithy, the web app mentioned above, but Mawjood's API was perhaps the most feature-complete and sophisticated one yet, if perhaps not the most elegant since it was one of the first I made.
 
-My best friends for API development are Node.js, Cloudflare and Firebase; Workers are, again, awesome free options, and Firebase is good when I want a document-based database rather than Cloudflare's SQLite D1 service. I mostly use Node.js for testing only since I can't pay for a VPS 🙂
+My best friends for API development are Node.js, Cloudflare, and Firebase; Workers are, again, awesome free options, and Firebase is good when I want a document-based database rather than Cloudflare's SQLite D1 service. I mostly use Node.js for testing only since I can't pay for a VPS 🙂
 
 This (the back-end for Mawjood, not the web app itself) was written on Cloudflare Workers with Wrangler CLI. The back-end database used to be MongoDB Atlas, but due to slower API speeds and the [_deprecation of the API_](https://www.mongodb.com/docs/data-api-deprecation/), I migrated to Firebase Firestore, which has been my favourite document-based database since.
 
