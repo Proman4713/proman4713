@@ -55,7 +55,7 @@ For this project, AI serves as nothing more than a glorified search engine; I'm 
 The best friends I rely on for Ubuntu-based distribution development (*because why not befriend technologies?*), barring the other parts of the project, are: Node.js; Bash; Figma; and the Arch, Ubuntu, and Red Hat distribution docs. Node.js and Bash are really good ways to write pipelines and tools, and Figma is awesome for designing system wallpapers and UI concepts, as well as app icons (can't afford the Adobe suite 💀).
 
 ## Web App Highlight
-[Utile OS Smithy](https://utile-os-smithy.mailworker.workers.dev/): Utile OS's package archive management service.
+[Smithy](https://utile-os-smithy.mailworker.workers.dev/): Utile OS's package archive management service.
 
 <img width="384" style="aspect-ratio: 16/9;" alt="Screenshot of Smithy homepage" src="https://github.com/user-attachments/assets/7335cae9-df55-411e-b712-4fbf2b7f77b2" />
 <img width="384" style="aspect-ratio: 16/9;" alt="Screenshot of Proman4713 user profile on Smithy" src="https://github.com/user-attachments/assets/8832d5eb-3caa-4512-827b-a1bb33c113fb" />
