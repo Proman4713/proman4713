@@ -21,16 +21,41 @@ The shortest description I can give of myself is this: a living organism of the 
 I do all sorts of stuff for all sorts of reasons, but the most significant one is that I'm a student; I don't have entire development teams :)
 Primarily, I'm a Full-Stack software engineer and Unity game developer.
 
-My real name is **Aaser Abd-el Sabour**, but I'm known everywhere online as Proman4713.
+My real name is **Aaser Abd-el Sabour**, but I'm known everywhere online as Proman4713. I am bilingual in English and Arabic, and I like computers, but I sadly have to use different languages to talk to them 🙁
 
 On an Egyptian student budget, my #1 criterion for choosing software technologies is: *Is it free?*
 
 <img width="320" height="240" alt="sad on a budget GIF" src="./gifs/sad on a budget GIF.gif" />
 
-
 # What this guy does
+## Linux Distribution (🤨) Highlight
+[Utile OS](https://github.com/Proman4713/Utile-OS): A minimum-friction Linux desktop.
+
+<img width="384" style="aspect-ratio: 16/9;" alt="Screenshot of Utile OS neofetch output" src="https://github.com/user-attachments/assets/7ba148f1-3ef6-4c9e-9cba-4cb388faa915" />
+<img width="384" style="aspect-ratio: 16/9;" alt="Screenshot of Utile OS overview with brand website open in Brave Browser" src="https://github.com/user-attachments/assets/404f62d3-c9ae-4588-b36c-16e2fa699827" />
+<img width="384" style="aspect-ratio: 16/9;" alt="Screenshot of Utile OS overview with Settings and themed Terminal apps open" src="https://github.com/user-attachments/assets/ef891571-032c-4174-93fa-027fe3e8ab58" />
+
+Yes, a distro&hellip; Unlike everything you'll see below, I *haven't* made many Linux distributions over the years, of course 😅
+
+Utile OS is an open-source Ubuntu-based distribution; it consists of:
+- a build pipeline (the main repository mentioned above)
+- [a Debian archive](https://github.com/Proman4713/Utile-OS-debian)
+- [a beautiful serverless website](https://github.com/Proman4713/Utile-OS-Web/) which you'll see later
+- [a secure full-stack archive management system called Smithy](https://github.com/Proman4713/Utile-OS-Smithy) which you'll also see
+- [beautiful branding and wallpapers](https://github.com/Proman4713/Utile-OS/tree/main/resources)
+and even more projects.
+
+If you haven't guessed already: yes, *the 'Utile OS' project is the latest culmination of my ~6-year experience in Computer Science as a whole, across all the fields I've tried, from Cybersecurity to Game Development to UI/UX and brand design to full-stack web and mobile development&hellip;* And you'll see other things related to it below.
+
+### IT'S NOT VIBE-CODED
+I researched and learned various Linux, GNOME, and Debian concepts; independently investigated and documented processes and tools used to make Ubuntu; modified upstream packages; followed design guidelines to design app icons; and studied open-source code.
+
+For this project, AI serves as nothing more than a glorified search engine; I'm dealing with things way too undocumented for Claude or any other LLM to be able to do alone. Besides, I don't pay for AI, so I have no choice but to do it on my own. I'll write up an AI policy for Utile OS at some point, but just know that since 5 July 2026, almost no AI-written code has been allowed into the repository without a comment mentioning how AI was used (very little).
+
+The best friends I rely on for Ubuntu-based distribution development (*because why not befriend technologies?*), barring the other parts of the project, are: Node.js; Bash; Figma; and the Arch, Ubuntu, and Red Hat distribution docs. Node.js and Bash are really good ways to write pipelines and tools, and Figma is awesome for designing system wallpapers and UI concepts, as well as app icons (can't afford the Adobe suite 💀).
+
 ## Web App Highlight:
-[Utile OS Smithy](https://utile-os-smithy.mailworker.workers.dev/): Utile OS's (more on that later 😉) package archive management service.
+[Utile OS Smithy](https://utile-os-smithy.mailworker.workers.dev/): Utile OS's package archive management service.
 
 <img width="384" style="aspect-ratio: 16/9;" alt="Screenshot of Smithy homepage" src="https://github.com/user-attachments/assets/7335cae9-df55-411e-b712-4fbf2b7f77b2" />
 <img width="384" style="aspect-ratio: 16/9;" alt="Screenshot of Proman4713 user profile on Smithy" src="https://github.com/user-attachments/assets/8832d5eb-3caa-4512-827b-a1bb33c113fb" />
@@ -38,7 +63,7 @@ On an Egyptian student budget, my #1 criterion for choosing software technologie
 
 I've made many web apps and am still making more — open-source ones! I've made them in 'vanilla' web technologies, CRA, and with React Router v7 in serverless environments.
 
-The best friend I rely on for web app development now, barring the back-end, is Cloudflare; Workers are awesome free options. I previously used to run on Cloudflare Pages.
+My best friend for web app development now, barring the back-end, is Cloudflare; Workers are awesome free options. I previously used to run on Cloudflare Pages.
 
 This was made in React Router v7 and hosted on Cloudflare Workers with D1 integration; it merges the front- and back-ends in one codebase; it's very early-stage, and I haven't worked on it much yet, but it's the first truly open-source web app of mine (AGPL'd).
 
@@ -52,7 +77,7 @@ As for noninteractive websites/homepages, regardless of dynamism, I've made a *l
 
 So, my best friend for websites is also Cloudflare for their awesome free plan for Workers and their entire dashboard (not sponsored; I could only wish 😭).
 
-This was made in React Router v7 and hosted on Cloudflare Workers. If you haven't guessed already: yes, *this 'Utile OS' project is the latest culmination of my experience in Computer Science as a whole, across all the fields I've tried, from Cybersecurity to Game Development to UI/UX and brand design to full-stack web and mobile development...*
+This was made in React Router v7 and hosted on Cloudflare Workers. This website includes some pretty fancy stuff on PC; please check it out 😊
 
 ## Back-end Highlight
 [Mawjood API](https://nmols-api.mawjood.education/auth/publicKey)
@@ -87,6 +112,7 @@ My best friend for mobile app development is Expo; the Expo SDK and Application 
 This app allowed teachers to take attendance, see class students and timetables, and create new classes when their data wasn't available. Teachers could scan QR codes hung outside class doors to immediately get to the class's information. A work-in-progress messaging feature between teachers also existed, but I decided not to move on with its development alongside the rest of Mawjood's system. This app is also closed-source.
 
 #### Rest is TODO :)
+<!-- Don't forget to mention Unity game(s) -->
 
 <!---
 proman4713/proman4713 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
