@@ -15,7 +15,7 @@ Egyptian Full-Stack software engineer and Unity game developer! ~6 years in deve
 - Itch.io: https://proman4713.itch.io/
 -->
 
-# Me 🤷‍♂️
+# Me ¯\\\_(ツ)\_/¯
 The shortest description I can give of myself is this: a living organism of the Software Engineer species, of human, particularly Egyptian 🇪🇬, descent.
 
 I do all sorts of stuff for all sorts of reasons, but the most significant one is that I'm a student; I don't have entire development teams :)\
@@ -26,6 +26,27 @@ My real name is **Aaser Abd-el Sabour**, but I'm known everywhere online as Prom
 On an Egyptian student budget, my #1 criterion for choosing software technologies is: *Is it free?*
 
 <img width="320" height="240" alt="sad on a budget GIF" src="./gifs/sad on a budget GIF.gif" />
+<br>
+<div align="center">
+	<table>
+		<tr>
+			<th>YouTube</th>
+			<th>Discord</th>
+			<th>itch.io</th>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://youtube.com/@lots_of_codeswallop">Codeswallop</a>
+			</td>
+			<td>
+				@proman4713
+			</td>
+			<td>
+				<a href="https://proman4713.itch.io">proman4713</a>
+			</td>
+		</tr>
+	</table>
+</div>
 
 # What this guy does
 ## Linux Distribution (🤨) Highlight
