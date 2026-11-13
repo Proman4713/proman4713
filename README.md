@@ -26,13 +26,14 @@ My real name is **Aaser Abd-el Sabour**, but I'm known everywhere online as Prom
 On an Egyptian student budget, my #1 criterion for choosing software technologies is: *Is it free?*
 
 <img width="320" height="240" alt="sad on a budget GIF" src="./gifs/sad on a budget GIF.gif" />
-<br>
+
 <div align="center">
 	<table>
 		<tr>
 			<th>YouTube</th>
 			<th>Discord</th>
 			<th>itch.io</th>
+			<th>Mastodon</th>
 		</tr>
 		<tr>
 			<td>
@@ -43,6 +44,9 @@ On an Egyptian student budget, my #1 criterion for choosing software technologie
 			</td>
 			<td>
 				<a href="https://proman4713.itch.io">proman4713</a>
+			</td>
+			<td>
+				<a rel="me" href="https://floss.social/@Proman4713">@Proman4713</a>
 			</td>
 		</tr>
 	</table>
