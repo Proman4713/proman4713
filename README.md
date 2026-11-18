@@ -56,9 +56,10 @@ On an Egyptian student budget, my #1 criterion for choosing software technologie
 ## Linux Distribution (🤨) Highlight
 [Utile OS](https://github.com/Proman4713/Utile-OS): A minimum-friction Linux desktop.
 
-<img width="384" style="aspect-ratio: 16/9;" alt="Screenshot of Utile OS neofetch output" src="https://github.com/user-attachments/assets/7ba148f1-3ef6-4c9e-9cba-4cb388faa915" />
-<img width="384" style="aspect-ratio: 16/9;" alt="Screenshot of Utile OS overview with brand website open in Brave Browser" src="https://github.com/user-attachments/assets/404f62d3-c9ae-4588-b36c-16e2fa699827" />
-<img width="384" style="aspect-ratio: 16/9;" alt="Screenshot of Utile OS overview with Settings and themed Terminal apps open" src="https://github.com/user-attachments/assets/ef891571-032c-4174-93fa-027fe3e8ab58" />
+<img width="384" style="aspect-ratio: 16/9;" alt="Screenshot of Utile OS first boot" src="./images/Utile OS First Boot.png" />
+<img width="384" style="aspect-ratio: 16/9;" alt="Screenshot of Utile OS neofetch output" src="./images/Utile OS Neofetch.png" />
+<img width="384" style="aspect-ratio: 16/9;" alt="Screenshot of Utile OS overview with brand website open in Brave Browser" src="./images/Utile OS Overview.png" />
+<img width="384" style="aspect-ratio: 16/9;" alt="Screenshot of Utile OS overview with Settings and themed Terminal apps open" src="./images/Utile OS Overview Terminal+Settings.png" />
 
 Yes, a distro&hellip; Unlike everything you'll see below, I *haven't* made many Linux distributions over the years, of course 😅
 
